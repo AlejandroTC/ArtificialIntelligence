@@ -26,7 +26,7 @@ public class Entidad{
         }
 
         private void calcularNumeroAtaques() {
-        
+            
         }
         
         private void iniciarAleatoriamente() {
