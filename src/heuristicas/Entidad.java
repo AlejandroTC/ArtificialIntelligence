@@ -2,12 +2,6 @@ package heuristicas;
 
 import java.util.Random;
 
-/**
- * El objetivo de la entidad es que represente la posicion de en la que 
- * tienen que estar colocadas las damas (propuesta), ademas me dirá cuantos
- * ataques conlleva 
- * @author roban
- */
 public class Entidad {
     
     private int [] estado;
